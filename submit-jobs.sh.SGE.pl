@@ -5,17 +5,6 @@
 #
 #        USAGE: ./submit-jobs.sh.SGE.pl
 #
-#  DESCRIPTION:
-#
-#      OPTIONS: ---
-# REQUIREMENTS: ---
-#         BUGS: ---
-#        NOTES: ---
-#       AUTHOR: ZHOU Yuanjie (ZHOU YJ), libranjie@gmail.com
-# ORGANIZATION: R & D Department
-#      VERSION: 1.0
-#      CREATED: Mon Apr 24 19:51:24 2017 CST
-#     REVISION: ---
 #===============================================================================
 use strict;
 use warnings;
